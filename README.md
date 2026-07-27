@@ -279,15 +279,15 @@ LangGraph • LangChain • RAG • LLMs
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/LuixRom/LuixRom/output/pacman-contribution-graph-dark.svg"
+      srcset="https://raw.githubusercontent.com/LuixRom/LuixRom/output/pacman-contribution-graph-dark.svg?v=2"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/LuixRom/LuixRom/output/pacman-contribution-graph.svg"
+      srcset="https://raw.githubusercontent.com/LuixRom/LuixRom/output/pacman-contribution-graph.svg?v=2"
     />
     <img
       alt="Pac-Man contribution graph"
-      src="https://raw.githubusercontent.com/LuixRom/LuixRom/output/pacman-contribution-graph.svg"
+      src="https://raw.githubusercontent.com/LuixRom/LuixRom/output/pacman-contribution-graph.svg?v=2"
     />
   </picture>
 </p>
