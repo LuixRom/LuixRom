@@ -20,15 +20,15 @@
 
 <p align="center">
 
-<a href="https://TU_PORTAFOLIO">
+<a href="https://anthrom-portfolio.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
-<a href="https://linkedin.com/in/TU_LINKEDIN">
+<a href="https://www.linkedin.com/in/luis-anthony-romero-padilla-55bb22318">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:TU_CORREO">
+<a href="mailto:anthonyromero.dev@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
